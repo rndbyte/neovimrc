@@ -1,0 +1,9 @@
+.idea
+.vscode
+.luarc.json
+
+*.log
+
+TODO.md
+
+lua/config/custom.lua
